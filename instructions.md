@@ -7,6 +7,7 @@ As a user, I want to see a listing of all available pets. Each pet should have a
 - color
 - specialSkill
 - typeOfPet
+- favorite
 
 Navigate to [dbDiagram.io](https://dbDiagram.io) and create an entity for these properties.
 
